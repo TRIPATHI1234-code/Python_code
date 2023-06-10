@@ -1,2 +1,2 @@
 # Python_code
-print("0")
+print("WELCOME TO THE WORLD OF SHUSHANT MANI TRIPATHI")
